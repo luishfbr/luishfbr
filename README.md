@@ -50,8 +50,4 @@ Always curious and ready!
   <i>Feel free to dm me</i><br><br>
   <a href="https://www.linkedin.com/in/luishenriquedev/">
   <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
-</a>
-<a href="https://twitter.com/luishfb">
-<code><img alt="My e-mail" width="32" src="./images/twitter.svg" /></code>
-</a>
 </p>
