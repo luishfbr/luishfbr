@@ -1,26 +1,57 @@
-## I'm Luis Henrique! :wave:
+<img src="./images/computer.gif" width="100%"/>
 
-🎊 Hello world!
+# 🖖 Hey dev, Welcome! <img align="right" src="https://komarev.com/ghpvc/?username=viteras007&style=flat-square&color=blueviolet">
 
-- :hammer_and_pick: Starting studies on Web Development
-- :pencil2: VS Code!
-- email: `luishenriquefonte223@gmail.com`
+I'm a front-end developer!
+
+I am at the beginning of my journey as a front-end developer, have never worked in this field before, and hope to soon find my first job.
+
+Always curious and ready!
+
+## 👨🏻‍💻 About me
+
+<br>
+
+<img src="./images/message.gif" width="300px" align="right">
+
+- 🌎 I'm from Brazil
+- 👨🏻‍💻 Love programming and gaming
+- 🧠 Love sharing knowledge
+- 🏀 Passionate for sport
+- 📧 Reach me via viteras10@gmail.com
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## 💻 Tech stack
+
+![HTML Logo](/images/html5.svg)
+![CSS Logo](/images/css3.svg)
+![Javascript Logo](/images/javascript.svg)
 
 
-<details>
-
-<summary>My GitHub Stats</summary>
-
-![Luis github stats](https://github-readme-stats.vercel.app/api?username=luishfbr&theme=vue&show_icons=true)
-
-</details>
 
 
-<!-- Actual text -->
-###### 💾 EOF
-<!-- Icons -->
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-<!-- Links to your social media accounts -->
-[1]: https://twitter.com/luishfbr
-[2]: https://www.linkedin.com/in/luishenriquedev/
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+<p align="center" > 
+  <i>Feel free to dm me</i><br><br>
+  <a href="https://www.linkedin.com/in/luishenriquedev/">
+  <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
+</a>
+<a href="https://twitter.com/luishfb">
+<code><img alt="My e-mail" width="32" src="./images/twitter.svg" /></code>
+</a>
+</p>
