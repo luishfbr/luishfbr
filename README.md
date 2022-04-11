@@ -18,7 +18,7 @@ Always curious and ready!
 - 👨🏻‍💻 Love programming and gaming
 - 🧠 Love sharing knowledge
 - 🏀 Passionate for sport
-- 📧 Reach me via viteras10@gmail.com
+- 📧 Reach me via luishenriquefonte223@gmail.com
 
 <br>
 <br>
