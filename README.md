@@ -32,8 +32,7 @@ Always curious and ready!
 ![CSS Logo](/images/css3.svg)
 ![Javascript Logo](/images/javascript.svg)
 ![React](/images/reactjs.svg)
-![Next](/images/next.svg)
-![Tailwind]()
+![Next](/images/nextjs.svg)
 ![TypeScript](/images/typescript.svg)
 
 
