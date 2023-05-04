@@ -31,9 +31,10 @@ Always curious and ready!
 ![HTML Logo](/images/html5.svg)
 ![CSS Logo](/images/css3.svg)
 ![Javascript Logo](/images/javascript.svg)
-![React]()
-![Next]()
+![React](/images/reactjs.svg)
+![Next](/images/next.svg)
 ![Tailwind]()
+![TypeScript](/images/typescript.svg)
 
 
 
