@@ -15,9 +15,6 @@ Fico feliz que tenha me visitado, me envie uma mensagem no Likedin: https://www.
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ## 💻 Tech stack
 
@@ -26,11 +23,5 @@ Fico feliz que tenha me visitado, me envie uma mensagem no Likedin: https://www.
 ![TypeScript](/images/typescript.svg)
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
