@@ -24,7 +24,6 @@ Fico feliz que tenha me visitado, me envie uma mensagem no Likedin: https://www.
 ![React](/images/reactjs.svg)
 ![Next](/images/nextjs.svg)
 ![TypeScript](/images/typescript.svg)
-![Angular](/images/angular.svg)
 
 
 <br>
