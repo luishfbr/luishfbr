@@ -1,7 +1,9 @@
 # 🖖 Olá, seja bem-vindo!
 
 Sou desenvolvedor Front-end...
+<br>
 Ingressei na área em 2022, como estagiário e atualmente como Analista Junior desenvolvo aplicações utilizando NextJs/NodeJs/ReactJs/Prisma
+<br>
 Fico feliz que tenha me visitado, me envie uma mensagem no Likedin: https://www.linkedin.com/in/luishenriquedev/
 
 ## 👨🏻‍💻 Sobre
