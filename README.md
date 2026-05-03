@@ -15,15 +15,6 @@ Fico feliz que tenha me visitado, me envie uma mensagem no Likedin: https://www.
 - 🏀 Apaixonado por games
 - 📧 Entre em contato comigo: luishenriquefonte223@gmail.com
 
-<br>
-<br>
-
-## 💻 Tech stack
-
-![React](/images/reactjs.svg)
-![Next](/images/nextjs.svg)
-![TypeScript](/images/typescript.svg)
-
 
 <br>
 <br>
