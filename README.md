@@ -1,8 +1,8 @@
 # 🖖 Olá, seja bem-vindo!
 
-Sou desenvolvedor Front-end...
+Sou Desenvolvedor FullStack
 <br>
-Ingressei na área em 2022, como estagiário e atualmente como Analista Junior desenvolvo aplicações utilizando NextJs/NodeJs/ReactJs/Prisma
+Ingressei na área em 2022, como estagiário e atualmente como Analista Junior desenvolvo aplicações utilizando Node | React | Next | Java | Spring | Angular
 <br>
 Fico feliz que tenha me visitado, me envie uma mensagem no Likedin: https://www.linkedin.com/in/luishenriquedev/
 
